@@ -1,5 +1,5 @@
 Instructions to Execute the Program:
-1) The Program has two class "tokenization.java" and "Stemmer.java",copy these two files into your directory.
+1) The Program has two JAVA Files -  "tokenization.java" and "Stemmer.java",copy these two files into your directory.
 2) Open Command Prompt/Putty and navigate to the folder where the two files are located(The two files need to be in the same folder).
 3) First, Compile Stemmer.java using the command
     -> javac Stemmer.java
