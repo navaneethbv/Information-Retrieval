@@ -1,4 +1,4 @@
-NOTE : Cranfield Database is not uploaded to git as the file size is large. Please copy the same from Assignment 1
+NOTE : Cranfield Database is not uploaded to git as the file size is large. Please copy the same from Assignment 1.
 
 Instructions to Execute the Program:
 1) Copy all the files from the folder "Homework 2/src" into your workspace.
