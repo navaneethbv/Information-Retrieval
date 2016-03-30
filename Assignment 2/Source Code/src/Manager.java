@@ -9,8 +9,8 @@ import java.util.Set;
  * @author Navaneeth.Rao
  */
 public class Manager {
-	private final Map<String, Integer>		stemMap;
-	private final Map<String, Integer>		lemmaMap;
+	private final Map<String, Integer>	stemMap;
+	private final Map<String, Integer>	lemmaMap;
 	private static Map<String, Property>	docProperties	= new HashMap<>();;
 	private static Set<String>				stopword;
 	public Manager(final Set<String> stopword) {
