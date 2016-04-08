@@ -1,7 +1,8 @@
 import java.util.LinkedList;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
-public class Formatter {
+public class Formatter 
+{
 	private final List<String[]>	rows	= new LinkedList<String[]>();
 	public void addRow(final String... columns) {
 		this.rows.add(columns);
