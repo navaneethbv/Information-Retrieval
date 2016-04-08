@@ -16,8 +16,10 @@ public class Writer
 {
 	public File write(final Map<String, Properties> dictionary, final String fileName) throws FileNotFoundException, UnsupportedEncodingException {
 		final File file = new File(fileName);
-		try (final PrintWriter writer = new PrintWriter(file, "UTF-8")) {
-			for (final Entry<String, Properties> entry : dictionary.entrySet()) {
+		try (final PrintWriter writer = new PrintWriter(file, "UTF-8")) 
+		{
+			for (final Entry<String, Properties> entry : dictionary.entrySet()) 
+			{
 				writer.print(entry.getKey() + ":" + entry.getValue().getDocFreq() + " [");
 				final List<String> pairs = new ArrayList<>();
 				for (final Entry<String, Property> list : entry.getValue().getPostingFile().entrySet()) {
