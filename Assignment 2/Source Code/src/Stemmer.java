@@ -1,7 +1,7 @@
 public class Stemmer
 {
-	private char[]				b;
-	private int					i, /* offset into b */
+	private char[]	b;
+	private int	i, /* offset into b */
 	i_end, /* offset to end of stemmed word */
 	j, k;
 	private static final int	INC	= 50;
