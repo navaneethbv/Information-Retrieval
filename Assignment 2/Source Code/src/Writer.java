@@ -12,7 +12,8 @@ import org.apache.commons.lang3.StringUtils;
  *
  * @author Navaneeth.Rao
  */
-public class Writer {
+public class Writer 
+{
 	public File write(final Map<String, Properties> dictionary, final String fileName) throws FileNotFoundException, UnsupportedEncodingException {
 		final File file = new File(fileName);
 		try (final PrintWriter writer = new PrintWriter(file, "UTF-8")) {
