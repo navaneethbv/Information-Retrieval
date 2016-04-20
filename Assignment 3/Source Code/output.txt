@@ -1,0 +1,564 @@
+-----------------------------Using W1------------------------
+Q:1
+Original Query:
+ what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft  
+
+Lemma Version of Query
+aeroelastic aircraft construct heated high law model must obey similarity speed 
+Vector Representation of Query
+0.4629612348432661,0.29963224559014,0.4209284338656756,0.40759523074622617,0.1857438967342298,0.3377526712160423,0.20172402601334635,0.3454351217699856,0.5841340850404995,0.3454351217699856,0.1437110957566392,
+Rank,Score,Title,External Identifier
+1,0.20835258046765473,viscous hypersonic similitude .,cranfield0573
+2,0.17655388964244348,similarity laws for stressing heated wings .,cranfield0013
+3,0.16943388534524292,theory of aircraft structural models subjected to aerodynamicheating and external loads .,cranfield0051
+4,0.15769728438359873,scale models for thermo-aeroelastic research .,cranfield0184
+5,0.14027528775972087,one dimensional heat conduction through the skin ofa vehicle upon entering a planetary atmosphere at constantvelocity and entry angle .,cranfield0944
+Q:2
+Original Query:
+ what are the structural and aeroelastic problems associated with flight of high speed aircraft  
+
+Lemma Version of Query
+aeroelastic aircraft associate flight high problem speed structural 
+Vector Representation of Query
+0.4629612348432661,0.29963224559014,0.3105545111488335,0.23869896327051388,0.1857438967342298,0.1437110957566392,0.1437110957566392,0.37709270670419626,
+Rank,Score,Title,External Identifier
+1,0.30470981227215116,some structural and aerelastic considerations of highspeed flight .,cranfield0012
+2,0.1893396048571848,models for aeroelastic investigation .,cranfield0875
+3,0.1872639425718669,theory of aircraft structural models subjected to aerodynamicheating and external loads .,cranfield0051
+4,0.17384139763200576,the estimation of fatigue damage on structural elements .,cranfield0884
+5,0.16164799992903803,aeroelastic problems in connection with high speedflight .,cranfield0746
+Q:3
+Original Query:
+ what problems of heat conduction in composite slabs have been solved so far  
+
+Lemma Version of Query
+composite conduction far heat problem slab so solve 
+Vector Representation of Query
+0.5228299055717927,0.359277739391598,0.36856744140554065,0.16684341539219427,0.1437110957566392,0.47739792654102775,0.27357957389166593,0.293706881890316,
+Rank,Score,Title,External Identifier
+1,0.47878235090965554,linear heat flow in a composite slab .,cranfield0485
+2,0.39530204028639343,one-dimensional transient heat conduction into a double-layerslab subjected to a linear heat input for a small timeinternal .,cranfield0005
+3,0.28865340420346336,conduction of heat in composite slabs .,cranfield0399
+4,0.2817753557455228,heat flow in composite slabs .,cranfield0144
+5,0.26815746698705306,periodic temperature distributions in a two-layer compositeslab .,cranfield0090
+Q:4
+Original Query:
+ can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium  
+
+Lemma Version of Query
+assumption base can chemical chemically criterion develop empirically equilibrium flow gas instantaneous local mixture on react show simplify solution to validity 
+Vector Representation of Query
+0.2575994446125494,0.1857438967342298,0.1437110957566392,0.37709270670419626,0.5354108567977349,0.38746792274757613,0.1857438967342298,0.6791219525543741,0.293706881890316,0.0,0.22777669771182038,0.5354108567977349,0.2575994446125494,0.42950072372516673,0.0,0.5650854040412232,0.11388834885591019,0.32504302271399976,0.11388834885591019,0.0,0.4172906696483052,
+Rank,Score,Title,External Identifier
+1,0.2145351539758964,flow of chemically reacting gas mixtures .,cranfield0166
+2,0.2129335562066907,a reaction-rate parameter for gasdynamics of a chemicallyreacting gas mixture .,cranfield0488
+3,0.17195822245945777,nonequilibrium flow past a wedge .,cranfield1189
+4,0.16962139194323442,turbulent mixing of a rocket exhaust jet with a supersonic stream includingchemical reactions .,cranfield1061
+5,0.15003139312603037,flow about an unsteadily rotating disc .,cranfield1275
+Q:5
+Original Query:
+ what chemical kinetic system is applicable to hypersonic aerodynamic problems  
+
+Lemma Version of Query
+aerodynamic applicable chemical hypersonic kinetic problem system to 
+Vector Representation of Query
+0.21556664363495875,0.30523715882587665,0.37709270670419626,0.21556664363495875,0.4343232510389948,0.1437110957566392,0.2874221915132784,0.0,
+Rank,Score,Title,External Identifier
+1,0.20907861996569496,theory of mixing and chemical reaction in the opposedjet diffusion flame .,cranfield0103
+2,0.20713660326962177,compressible free shear layer with finite initial thickness .,cranfield0943
+3,0.16402479075729523,on the conservativeness of various distributed force systems .,cranfield1032
+4,0.14363762773279318,viscous and inviscid nonequilibrium gas flows .,cranfield0625
+5,0.12546749086067877,a theory of imperfection for the vibrations of elastic bodies ofrevolution .,cranfield0849
+Q:6
+Original Query:
+ what theoretical and experimental guides do we have as to turbulent couette flow behaviour  
+
+Lemma Version of Query
+behaviour couette do experimental flow guide theoretical to turbulent we 
+Vector Representation of Query
+0.40759523074622617,0.5122785371621799,0.27357957389166593,0.1437110957566392,0.0,0.4568253824567415,0.1857438967342298,0.0,0.248579354304765,0.38746792274757613,
+Rank,Score,Title,External Identifier
+1,0.19917948326670135,a generalised porous-wall ?couette type? flow .,cranfield0386
+2,0.1899345750126833,on a generalised porous-wall ?couette type? flow .,cranfield0385
+3,0.18586159593519908,on the close relationship between turbulent plane-couetteand pressure flows .,cranfield0491
+4,0.12108053258683919,on turbulen flow between parallel plates .,cranfield0257
+5,0.11730283588547517,compressible flat-plate boundary-layer flow with anapplied magnetic field .,cranfield1282
+Q:7
+Original Query:
+ is it possible to relate the available pressure distributions for an ogive forebody at zero angle of attack to the lower surface pressures of an equivalent ogive forebody at angle of attack  
+
+Lemma Version of Query
+angle at attack available distribution equivalent forebody lower ogive possible pressure relate surface to zero 
+Vector Representation of Query
+0.22270798021423638,0.0,0.30886318755364844,0.2430456776896415,0.11892251361252486,0.307410238179878,0.6419606382696456,0.24794898137361554,0.5908507745649637,0.2131663758962014,0.0861552073394121,0.32655248730312625,0.11892251361252486,0.0,0.19752601954203555,
+Rank,Score,Title,External Identifier
+1,0.4789808119098403,prediction of ogive-forebody pressures at angles of attack .,cranfield0492
+2,0.26782952292919704,contributions of the wing panels to the forces andmoments of supersonic wing-body combinations at combinedangles .,cranfield0434
+3,0.24924623305540508,interaction effects produced by jet exhausting laterally near base ofogive-cylinder model in supersonic main stream .,cranfield0973
+4,0.2008883775863421,a summary of the supersonic pressure drag of bodiesof revolution .,cranfield0124
+5,0.19115680354080292,an analysis of the applicability of the hypersonicsimilarity law to the study of the flow about bodiesof revolution at zero angle of attack .,cranfield0056
+Q:8
+Original Query:
+ what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack 
+
+Lemma Version of Query
+angle approximate at attack available body dash exact method predict presently pressure 
+Vector Representation of Query
+0.153705119089939,0.16692885196679205,0.0,0.2131663758962014,0.2430456776896415,0.11892251361252486,0.5908507745649637,0.22003279637648082,0.09424386228367657,0.19752601954203555,0.5025196342446008,0.05946125680626243,
+Rank,Score,Title,External Identifier
+1,0.1807511462448807,an investigation of the pressure distribution on conical bodies inhypersonic flows .,cranfield0019
+2,0.17973326376423032,an investigation of fluid flow in two dimensions .,cranfield1083
+3,0.157942840911879,numerical comparison between exact and approximatetheories of hypersonic inviscid flow past slender bluntnosed bodies .,cranfield0556
+4,0.14869951793991448,calculated and measured pressure distributions over the midspan sectionof the naca 4412 airfoil .,cranfield0443
+5,0.1408903116731748,an experimental investigation of leading edge shock wave boundary layerinteraction at mach 5.8 .,cranfield0569
+Q:9
+Original Query:
+ papers on internal /slip flow/ heat transfer studies  
+
+Lemma Version of Query
+flow heat internal on papers slip study transfer 
+Vector Representation of Query
+0.0,0.16684341539219427,0.36856744140554065,0.0,0.5354108567977349,0.4568253824567415,0.16684341539219427,0.1857438967342298,
+Rank,Score,Title,External Identifier
+1,0.20230671436816863,second approximation to laminar compressible boundarylayer on flat plate in slip flow .,cranfield0306
+2,0.1991040454967804,on slip-flow heat transfer to a flat plate .,cranfield0022
+3,0.1876364128772297,on heat transfer in slip flow .,cranfield0021
+4,0.17895325034628684,laminar heat transfer in tubes under slip-flow conditions .,cranfield0550
+5,0.16895332962443604,the effect of slip particularly for highly cooled walls .,cranfield1215
+Q:10
+Original Query:
+ are real-gas transport properties for air available over a wide range of enthalpies and densities  
+
+Lemma Version of Query
+air available density enthalpy gas over property range real transport wide 
+Vector Representation of Query
+0.20172402601334635,0.293706881890316,0.2874221915132784,0.382410059027153,0.22777669771182038,0.16684341539219427,0.2575994446125494,0.1437110957566392,0.3899072268819347,0.42950072372516673,0.349072885987356,
+Rank,Score,Title,External Identifier
+1,0.21624614848216378,approximations for the thermodynamic and transport properties of hightemperature air .,cranfield0302
+2,0.20501234123213594,real-gas laminar boundary layer skin friction and heattransfer .,cranfield0493
+3,0.18537680337841697,a one-foot hypervelocity shock tunnel in which high-enthalpyreal gas flows can be generated with flow times ofabout 180 milliseconds .,cranfield1143
+4,0.1571115215822306,stagnation point heat transfer in partially ionizedair .,cranfield0524
+5,0.15563666342948346,free-flight measurements of the static and dynamic,cranfield1009
+Q:11
+Original Query:
+ is it possible to find an analytical,  similar solution of the strong blast wave problem in the newtonian approximation  
+
+Lemma Version of Query
+analytical approximation blast find newtonian possible problem similar solution strong to wave 
+Vector Representation of Query
+0.3156123748692566,0.22777669771182038,0.4698748390355086,0.1437110957566392,0.3559864901795984,0.2575994446125494,0.1437110957566392,0.2575994446125494,0.11388834885591019,0.36856744140554065,0.0,0.1857438967342298,
+Rank,Score,Title,External Identifier
+1,0.4184658502654581,on similar solutions for strong blast waves and theirapplication to steady hypersonic flow .,cranfield0495
+2,0.19054939455682685,on the propagation and structure of the blast wave . part 1.,cranfield0654
+3,0.1662685527319726,on the propagation and structure of the blast wave .,cranfield1327
+4,0.14947467549619425,hypersonic shock tunnel .,cranfield1157
+5,0.14913096368406978,numerical comparison between exact and approximatetheories of hypersonic inviscid flow past slender bluntnosed bodies .,cranfield0556
+Q:12
+Original Query:
+ how can the aerodynamic performance of channel flow ground effect machines be calculated  
+
+Lemma Version of Query
+aerodynamic calculate can channel effect flow ground machine performance 
+Vector Representation of Query
+0.21556664363495875,0.1857438967342298,0.1437110957566392,0.4568253824567415,0.0718555478783196,0.0,0.4013105403691886,0.44042298928386026,0.3559864901795984,
+Rank,Score,Title,External Identifier
+1,0.25991312430753793,cruise performance of channel-flow ground effect machines .,cranfield0624
+2,0.2388576943289356,some design problems of hovercraft .,cranfield0650
+3,0.19147823618336327,viscous compressible and incompressible flow in slenderchannels .,cranfield0941
+4,0.17179194365869396,a note on havelock's shallow-water wave-resistancecurves .,cranfield0506
+5,0.1646202908746839,steady flow of conducting fluids in channels undertransverse magnetic fields, with consideration of halleffect .,cranfield1221
+Q:13
+Original Query:
+ what is the basic mechanism of the transonic aileron buzz  
+
+Lemma Version of Query
+aileron basic buzz mechanism transonic 
+Vector Representation of Query
+0.5228299055717927,0.3743281257338242,0.7509775004326937,0.4013105403691886,0.32043490218308457,
+Rank,Score,Title,External Identifier
+1,0.4473435933074112,a theory of transonic aileron buzz, neglecting viscouseffects .,cranfield0496
+2,0.19331087705759448,two dimensional transonic unsteady flow with shockwaves .,cranfield0903
+3,0.15183406200032667,wing-tail interference as a cause of 'magnus' effectson a finned missile .,cranfield0520
+4,0.1323009949829766,an investigation of wing-aileron flutter using groundlaunched rocket models .,cranfield0643
+5,0.11959835921416871,on the prediction of mixed subsonic/supersonic pressuredistributions .,cranfield0038
+Q:14
+Original Query:
+ papers on shock-sound wave interaction  
+
+Lemma Version of Query
+interaction on papers shock sound wave 
+Vector Representation of Query
+0.2874221915132784,0.0,0.5354108567977349,0.16684341539219427,0.37709270670419626,0.1857438967342298,
+Rank,Score,Title,External Identifier
+1,0.19978568829715893,unsteady oblique interaction of a shock wave with planedisturbances .,cranfield0064
+2,0.16518002057986345,models for aeroelastic investigation .,cranfield0875
+3,0.1584974973342134,some comments on the inversion of certain large matrices .,cranfield0046
+4,0.13795740767957554,the pressure gradient induced by shear flow past aflat plate .,cranfield0388
+5,0.13774134708403277,sweepback effects in the turbulent boundary-layer shock-waveinteraction .,cranfield0291
+Q:15
+Original Query:
+ material properties of photoelastic materials  
+
+Lemma Version of Query
+material photoelastic property 
+Vector Representation of Query
+0.5014465399975435,0.7509775004326937,0.2575994446125494,
+Rank,Score,Title,External Identifier
+1,0.2679204295167744,photo-thermoelasticity .,cranfield0462
+2,0.1346656257628234,a theoretical study of stagnation point ablation .,cranfield1099
+3,0.11233861204573313,buckling of sandwich under normal pressure .,cranfield0761
+4,0.112159738079363,note on creep buckling of columns .,cranfield1025
+5,0.10744417928901312,on transverse vibrations of thin, shallow elastic shells .,cranfield1043
+Q:16
+Original Query:
+ can the transverse potential flow about a body of revolution be calculated efficiently by an electronic computer  
+
+Lemma Version of Query
+about body by calculate can computer electronic flow potential revolution transverse 
+Vector Representation of Query
+0.20172402601334635,0.1437110957566392,0.0,0.1857438967342298,0.1437110957566392,0.3946201131040147,0.5228299055717927,0.0,0.32945499249086896,0.29963224559014,0.32945499249086896,
+Rank,Score,Title,External Identifier
+1,0.36286811756348303,calculation of potential flow about bodies of revolutionhaving axes perpendicular to the free-stream direction .,cranfield0498
+2,0.20306860058634524,the supersonic blunt body problem - review and extensions .,cranfield0093
+3,0.20281473586580306,the transverse potential flow past a body of revolution .,cranfield0106
+4,0.16346058111109923,equilibrium real-gas performance charts for a shypersonicshock-tube wind-tunnel employing nitrogen .,cranfield1286
+5,0.1561018667981671,free-flight measurements of the static and dynamic,cranfield1006
+Q:17
+Original Query:
+ can the three-dimensional problem of a transverse potential flow about a body of revolution be reduced to a two-dimensional problem  
+
+Lemma Version of Query
+about body can dimensional flow potential problem reduce revolution three to transverse two 
+Vector Representation of Query
+0.16692885196679205,0.11892251361252486,0.11892251361252486,0.22270798021423638,0.0,0.2726276327024638,0.1723104146788242,0.20570215187949645,0.24794898137361554,0.19752601954203555,0.0,0.2726276327024638,0.09424386228367657,
+Rank,Score,Title,External Identifier
+1,0.2347304295902184,the transverse potential flow past a body of revolution .,cranfield0106
+2,0.1825274750989644,calculation of potential flow about bodies of revolutionhaving axes perpendicular to the free-stream direction .,cranfield0498
+3,0.18120501964511757,simplified laminar boundary layer calculations forbodies of revolution and for yawed wings .,cranfield0336
+4,0.16961527414175478,an experimental investigation of flow about simpleblunt bodies at a nominal mach number of 5. 8.,cranfield0372
+5,0.16321402189638773,the flow around oscillating low aspect ratio wings at transonicspeeds .,cranfield0916
+Q:18
+Original Query:
+ are experimental pressure distributions on bodies of revolution at angle of attack available  
+
+Lemma Version of Query
+angle at attack available body distribution experimental on pressure revolution 
+Vector Representation of Query
+0.1857438967342298,0.0,0.2575994446125494,0.293706881890316,0.1437110957566392,0.1437110957566392,0.1437110957566392,0.0,0.0718555478783196,0.29963224559014,
+Rank,Score,Title,External Identifier
+1,0.2519688533485246,the application of lighthill formula for numericalcalculation of pressure distributions on bodies ofrevolution at supersonic speed and zero angle of attack .,cranfield0248
+2,0.2172892625330102,calculation of potential flow about bodies of revolutionhaving axes perpendicular to the free-stream direction .,cranfield0498
+3,0.20668161021082734,pressure distributions on three bodies of revolutionto determine the effect of reynolds number up to andincluding the transonic speed range .,cranfield0197
+4,0.19273746957236085,an analysis of the applicability of the hypersonicsimilarity law to the study of the flow about bodiesof revolution at zero angle of attack .,cranfield0056
+5,0.18436913459838536,practical calculation of second-order supersonic flowpast non-lifting bodies of revolution .,cranfield0231
+Q:19
+Original Query:
+ does there exist a good basic treatment of the dynamics of re-entry combining consideration of realistic effects with relative simplicity of results  
+
+Lemma Version of Query
+basic combine consideration do dynamics effect entry exist good re realistic relative result simplicity treatment 
+Vector Representation of Query
+0.3743281257338242,0.349072885987356,0.2807317642481045,0.27357957389166593,0.4927839817439952,0.0718555478783196,0.36856744140554065,0.2658971233377227,0.23869896327051388,0.32043490218308457,0.6791219525543741,0.36856744140554065,0.0718555478783196,0.4927839817439952,0.3655624297686356,
+Rank,Score,Title,External Identifier
+1,0.13862294457897611,theoretical investigation of the ablation of a glass-typeheat protection shield of varied material propertiesat the stagnation point of a re-entering irbm .,cranfield0082
+2,0.10936165365796376,newtonian flow theory for slender bodies .,cranfield0027
+3,0.10560588380797482,on som reciprocal relations in the theory of nonstationary flows .,cranfield0706
+4,0.09094862963438378,an improvement on donnell's approximation for thin-walledcircular cylinders .,cranfield0842
+5,0.09048068558929047,plastic stability theory of thin shells .,cranfield1119
+Q:20
+Original Query:
+ has anyone formally determined the influence of joule heating,  produced by the induced current,  in magnetohydrodynamic free convection flows under general conditions 
+
+Lemma Version of Query
+by condition convection current determine flow formally free general have heating induce influence joule magnetohydrodynamic produce under 
+Vector Representation of Query
+0.0,0.1437110957566392,0.40554237866270815,0.42950072372516673,0.16684341539219427,0.0,0.6369409519195428,0.1857438967342298,0.1857438967342298,0.11388834885591019,0.29963224559014,0.30523715882587665,0.2658971233377227,0.7509775004326937,0.4244428600047437,0.293706881890316,0.20172402601334635,
+Rank,Score,Title,External Identifier
+1,0.38936780212268374,joule heating in magnetohydrodynamic free-convectionflows .,cranfield0500
+2,0.17055015655290287,several magnetohydrodynamic free-convection solutions .,cranfield0268
+3,0.13898871781003647,some physical interpretations of magnetohydrodynamic duct flows .,cranfield0450
+4,0.12417592528676535,conduction of heat in a solid with a power law of heattransfer at its surface .,cranfield0584
+5,0.11685333959949654,magnetohydrodynamic free-convection pipe flow .,cranfield0088
+
+-----------------------------Using W2------------------------
+Q:1
+Original Query:
+ what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft  
+
+Lemma Version of Query
+aeroelastic aircraft construct heated high law model must obey similarity speed 
+Vector Representation of Query
+0.6245383902116745,0.5453230573464669,0.6041522827856584,0.5976856161633006,0.49008666908897264,0.5638116442086516,0.4978371074273403,0.5675376690902968,0.683307796099099,0.5675376690902968,0.46970056166295654,
+Rank,Score,Title,External Identifier
+1,0.1004851186698885,viscous hypersonic similitude .,cranfield0573
+2,0.09112446845484634,theory of aircraft structural models subjected to aerodynamicheating and external loads .,cranfield0051
+3,0.08776790513815427,similarity laws for stressing heated wings .,cranfield0013
+4,0.08555541013663655,scale models for thermo-aeroelastic research .,cranfield0184
+5,0.08233444560939103,similarity laws for aerothermoelastic testing .,cranfield0486
+Q:2
+Original Query:
+ what are the structural and aeroelastic problems associated with flight of high speed aircraft  
+
+Lemma Version of Query
+aeroelastic aircraft associate flight high problem speed structural 
+Vector Representation of Query
+0.6301518499669663,0.5489561337801286,0.5543859180362875,0.5186643801840222,0.492338835816197,0.4714430757045305,0.4714430757045305,0.5874640413174191,
+Rank,Score,Title,External Identifier
+1,0.1715161694171683,some structural and aerelastic considerations of highspeed flight .,cranfield0012
+2,0.09692410601167313,the estimation of fatigue damage on structural elements .,cranfield0884
+3,0.09410456059832216,theory of aircraft structural models subjected to aerodynamicheating and external loads .,cranfield0051
+4,0.08986380860205007,models for aeroelastic investigation .,cranfield0875
+5,0.08681252581194739,aeroelastic problems in connection with high speedflight .,cranfield0746
+Q:3
+Original Query:
+ what problems of heat conduction in composite slabs have been solved so far  
+
+Lemma Version of Query
+composite conduction far heat problem slab so solve 
+Vector Representation of Query
+0.6599143533607944,0.5786076892613261,0.5832258774447807,0.482942842331757,0.4714430757045305,0.6373287603680444,0.536004572965289,0.5460104586034515,
+Rank,Score,Title,External Identifier
+1,0.25146595468291316,linear heat flow in a composite slab .,cranfield0485
+2,0.17273133947117505,one-dimensional transient heat conduction into a double-layerslab subjected to a linear heat input for a small timeinternal .,cranfield0005
+3,0.14084623402173166,conduction of heat in composite slabs .,cranfield0399
+4,0.1399420865324479,some problems on heat conduction in stratiform bodies .,cranfield0181
+5,0.1391480844136428,heat flow in composite slabs .,cranfield0144
+Q:4
+Original Query:
+ can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium  
+
+Lemma Version of Query
+assumption base can chemical chemically criterion develop empirically equilibrium flow gas instantaneous local mixture on react show simplify solution to validity 
+Vector Representation of Query
+0.5155431942873343,0.48331323532288445,0.4644599179288996,0.569140488406694,0.6401522283698085,0.5737941692594473,0.48331323532288445,0.704612146298708,0.5317387596422118,0.4,0.5021665527168693,0.6401522283698085,0.5155431942873343,0.592647486653432,0.4,0.6534623967310023,0.45108327635843465,0.5457942162168639,0.45108327635843465,0.4,0.5871708108299123,
+Rank,Score,Title,External Identifier
+1,0.1132340132379416,flow of chemically reacting gas mixtures .,cranfield0166
+2,0.10730033683745524,a reaction-rate parameter for gasdynamics of a chemicallyreacting gas mixture .,cranfield0488
+3,0.09873499714745225,turbulent mixing of a rocket exhaust jet with a supersonic stream includingchemical reactions .,cranfield1061
+4,0.0920572511928443,nonequilibrium flow past a wedge .,cranfield1189
+5,0.07292514334967345,flow about an unsteadily rotating disc .,cranfield1275
+Q:5
+Original Query:
+ what chemical kinetic system is applicable to hypersonic aerodynamic problems  
+
+Lemma Version of Query
+aerodynamic applicable chemical hypersonic kinetic problem system to 
+Vector Representation of Query
+0.5071646135567957,0.5517425034651539,0.5874640413174191,0.5071646135567957,0.6159150533286724,0.4714430757045305,0.5428861514090608,0.4,
+Rank,Score,Title,External Identifier
+1,0.11056770544320876,theory of mixing and chemical reaction in the opposedjet diffusion flame .,cranfield0103
+2,0.0996570792220455,on the conservativeness of various distributed force systems .,cranfield1032
+3,0.08627443961115118,compressible free shear layer with finite initial thickness .,cranfield0943
+4,0.07183484573746819,viscous and inviscid nonequilibrium gas flows .,cranfield0625
+5,0.06846578304126495,non-equilibrium expansions of air with coupled chemicalreactions .,cranfield1296
+Q:6
+Original Query:
+ what theoretical and experimental guides do we have as to turbulent couette flow behaviour  
+
+Lemma Version of Query
+behaviour couette do experimental flow guide theoretical to turbulent we 
+Vector Representation of Query
+0.5993059900662786,0.6504940522780109,0.5337749898019236,0.47027187774216106,0.4,0.6233785586039765,0.49082508440937406,0.4,0.5215503778811232,0.589464135340217,
+Rank,Score,Title,External Identifier
+1,0.08917344049230617,on the close relationship between turbulent plane-couetteand pressure flows .,cranfield0491
+2,0.08318808447362923,a generalised porous-wall ?couette type? flow .,cranfield0386
+3,0.0781183608665401,on a generalised porous-wall ?couette type? flow .,cranfield0385
+4,0.05787377062678526,on turbulen flow between parallel plates .,cranfield0257
+5,0.05338266349796825,comparison of theoretical and experimental creep bucklingtimes of initially straight, centrally loaded columns .,cranfield0950
+Q:7
+Original Query:
+ is it possible to relate the available pressure distributions for an ogive forebody at zero angle of attack to the lower surface pressures of an equivalent ogive forebody at angle of attack  
+
+Lemma Version of Query
+angle at attack available distribution equivalent forebody lower ogive possible pressure relate surface to zero 
+Vector Representation of Query
+0.5062044118013767,0.4,0.5472898866474325,0.5307556345702551,0.46397887376525115,0.5653829895215468,0.7061365467078389,0.5333935526389212,0.6817634056700428,0.5146809316433989,0.44108547484605587,0.5756812879936899,0.46397887376525115,0.4,0.5062666091200199,
+Rank,Score,Title,External Identifier
+1,0.21335703571014022,prediction of ogive-forebody pressures at angles of attack .,cranfield0492
+2,0.09792681913447927,contributions of the wing panels to the forces andmoments of supersonic wing-body combinations at combinedangles .,cranfield0434
+3,0.09760931153912157,interaction effects produced by jet exhausting laterally near base ofogive-cylinder model in supersonic main stream .,cranfield0973
+4,0.08926558686838428,an analysis of the applicability of the hypersonicsimilarity law to the study of the flow about bodiesof revolution at zero angle of attack .,cranfield0056
+5,0.08852535025283541,a summary of the supersonic pressure drag of bodiesof revolution .,cranfield0124
+Q:8
+Original Query:
+ what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack 
+
+Lemma Version of Query
+angle approximate at attack available body dash exact method predict presently pressure 
+Vector Representation of Query
+0.48864528238354904,0.4962717137085028,0.4,0.5229379587217237,0.5401700402593135,0.4685853526763492,0.6944639264598444,0.5268979815631385,0.4543526060453745,0.5139178049766613,0.6898146473236508,0.43429267633817464,
+Rank,Score,Title,External Identifier
+1,0.08584673990340834,prediction of ogive-forebody pressures at angles of attack .,cranfield0492
+2,0.08319974733041852,a simplified approximate method for the calculation of the pressurearound conical bodies of arbitrary shape in supersonic and hypersonicflow .,cranfield0122
+3,0.07964314630197207,an investigation of the pressure distribution on conical bodies inhypersonic flows .,cranfield0019
+4,0.07801427773642414,predicted shock envelopes about two types of vehiclesat large angles of attack .,cranfield0069
+5,0.07714872743325821,numerical comparison between exact and approximatetheories of hypersonic inviscid flow past slender bluntnosed bodies .,cranfield0556
+Q:9
+Original Query:
+ papers on internal /slip flow/ heat transfer studies  
+
+Lemma Version of Query
+flow heat internal on papers slip study transfer 
+Vector Representation of Query
+0.4,0.482942842331757,0.5832258774447807,0.4,0.6661687197765378,0.6271015345807095,0.482942842331757,0.492338835816197,
+Rank,Score,Title,External Identifier
+1,0.10035926544304079,on heat transfer in slip flow .,cranfield0021
+2,0.09418473321262542,on slip-flow heat transfer to a flat plate .,cranfield0022
+3,0.09018918799765861,laminar heat transfer in tubes under slip-flow conditions .,cranfield0550
+4,0.08210424966449444,the effect of slip particularly for highly cooled walls .,cranfield1215
+5,0.08096612351014901,second approximation to laminar compressible boundarylayer on flat plate in slip flow .,cranfield0306
+Q:10
+Original Query:
+ are real-gas transport properties for air available over a wide range of enthalpies and densities  
+
+Lemma Version of Query
+air available density enthalpy gas over property range real transport wide 
+Vector Representation of Query
+0.4978371074273403,0.5424492279058064,0.5394011233259131,0.5854706886717587,0.5104727765149887,0.48091984617732386,0.5249369499204509,0.46970056166295654,0.5891068505673206,0.608309883942329,0.5693020019541801,
+Rank,Score,Title,External Identifier
+1,0.10844235123524808,approximations for the thermodynamic and transport properties of hightemperature air .,cranfield0302
+2,0.10116112394252114,a one-foot hypervelocity shock tunnel in which high-enthalpyreal gas flows can be generated with flow times ofabout 180 milliseconds .,cranfield1143
+3,0.10018366349691557,real-gas laminar boundary layer skin friction and heattransfer .,cranfield0493
+4,0.0939187904682194,stagnation point heat transfer in partially ionizedair .,cranfield0524
+5,0.08691446819991125,charts for equilibrium flow properties of air in hypervelocitynozzles .,cranfield0949
+Q:11
+Original Query:
+ is it possible to find an analytical,  similar solution of the strong blast wave problem in the newtonian approximation  
+
+Lemma Version of Query
+analytical approximation blast find newtonian possible problem similar solution strong to wave 
+Vector Representation of Query
+0.5518390320099569,0.5095818670269646,0.6260536861222281,0.469138460359223,0.5712627526087459,0.5239293938727053,0.469138460359223,0.5239293938727053,0.4547909335134823,0.5773153652691426,0.4,0.4893601636930938,
+Rank,Score,Title,External Identifier
+1,0.19758176717294637,on similar solutions for strong blast waves and theirapplication to steady hypersonic flow .,cranfield0495
+2,0.09639446795776858,on the propagation and structure of the blast wave . part 1.,cranfield0654
+3,0.08180007323246492,on the propagation and structure of the blast wave .,cranfield1327
+4,0.07156063759554758,boundary layer behind shock or thin expansion wavemoving into stationary fluid .,cranfield0072
+5,0.06705439783171405,hypersonic shock tunnel .,cranfield1157
+Q:12
+Original Query:
+ how can the aerodynamic performance of channel flow ground effect machines be calculated  
+
+Lemma Version of Query
+aerodynamic calculate can channel effect flow ground machine performance 
+Vector Representation of Query
+0.5062789555935163,0.4915757049416829,0.47085263706234426,0.625224662394092,0.43542631853117214,0.4,0.5978546605351992,0.6171379325259959,0.5755089365577231,
+Rank,Score,Title,External Identifier
+1,0.12814045658858347,cruise performance of channel-flow ground effect machines .,cranfield0624
+2,0.12743259569969587,some design problems of hovercraft .,cranfield0650
+3,0.08847422942918591,a note on havelock's shallow-water wave-resistancecurves .,cranfield0506
+4,0.07079193897661218,on fully developed channel flows,. some solutions and limitations, andeffects of compressibility, variable properties, and body forces .,cranfield0966
+5,0.07022607913388525,viscous compressible and incompressible flow in slenderchannels .,cranfield0941
+Q:13
+Original Query:
+ what is the basic mechanism of the transonic aileron buzz  
+
+Lemma Version of Query
+aileron basic buzz mechanism transonic 
+Vector Representation of Query
+0.6665788239597891,0.5908612159896666,0.7829059829059829,0.6046189224338385,0.5633823131946056,
+Rank,Score,Title,External Identifier
+1,0.23213552182483474,a theory of transonic aileron buzz, neglecting viscouseffects .,cranfield0496
+2,0.0975531770339427,two dimensional transonic unsteady flow with shockwaves .,cranfield0903
+3,0.09135601843617525,wing-tail interference as a cause of 'magnus' effectson a finned missile .,cranfield0520
+4,0.0763470546161269,on the prediction of mixed subsonic/supersonic pressuredistributions .,cranfield0038
+5,0.0732351596278732,an investigation of wing-aileron flutter using groundlaunched rocket models .,cranfield0643
+Q:14
+Original Query:
+ papers on shock-sound wave interaction  
+
+Lemma Version of Query
+interaction on papers shock sound wave 
+Vector Representation of Query
+0.5453079505854856,0.4,0.6706800540100384,0.48434865321873594,0.5906413979499178,0.4939039008300308,
+Rank,Score,Title,External Identifier
+1,0.11136727381973563,unsteady oblique interaction of a shock wave with planedisturbances .,cranfield0064
+2,0.0937945338165501,sweepback effects in the turbulent boundary-layer shock-waveinteraction .,cranfield0291
+3,0.08790817114138852,magnetohydrodynamics shocks .,cranfield0402
+4,0.0797177913213461,an experimental study of the glancing interaction betweena shock wave and a turbulent boundary layer .,cranfield0256
+5,0.07731723955634999,convection of a pattern of vorticity through a shockwave .,cranfield0065
+Q:15
+Original Query:
+ material properties of photoelastic materials  
+
+Lemma Version of Query
+material photoelastic property 
+Vector Representation of Query
+0.5974969227542097,0.7862068965517242,0.532476248622547,
+Rank,Score,Title,External Identifier
+1,0.1485880656960105,photo-thermoelasticity .,cranfield0462
+2,0.08137852341316762,physical properties of plastics for photo-thermoelasticinvestigation .,cranfield0463
+3,0.07870755734457356,a theoretical study of stagnation point ablation .,cranfield1099
+4,0.07397785370430304,note on creep buckling of columns .,cranfield1025
+5,0.06535108638798076,on transverse vibrations of thin, shallow elastic shells .,cranfield1043
+Q:16
+Original Query:
+ can the transverse potential flow about a body of revolution be calculated efficiently by an electronic computer  
+
+Lemma Version of Query
+about body by calculate can computer electronic flow potential revolution transverse 
+Vector Representation of Query
+0.49704809849647463,0.469138460359223,0.4,0.4893601636930938,0.469138460359223,0.5898491337996327,0.651530019381414,0.4,0.5584986240523168,0.5441510972065761,0.5584986240523168,
+Rank,Score,Title,External Identifier
+1,0.14883385409387642,calculation of potential flow about bodies of revolutionhaving axes perpendicular to the free-stream direction .,cranfield0498
+2,0.11018104673159572,the transverse potential flow past a body of revolution .,cranfield0106
+3,0.08451108389511558,the supersonic blunt body problem - review and extensions .,cranfield0093
+4,0.07258833500440155,the calculation of transient temperature in turbineblades and tapered discs using biot's variational method .,cranfield0869
+5,0.07092320425607908,on transverse vibrations of thin, shallow elastic shells .,cranfield1043
+Q:17
+Original Query:
+ can the three-dimensional problem of a transverse potential flow about a body of revolution be reduced to a two-dimensional problem  
+
+Lemma Version of Query
+about body can dimensional flow potential problem reduce revolution three to transverse two 
+Vector Representation of Query
+0.49475562372884135,0.4675052683822335,0.4675052683822335,0.5098908459300195,0.4,0.554754562066829,0.4850231644748131,0.5167649299330476,0.5407459531780743,0.5121238237959265,0.4,0.554754562066829,0.4534966594934788,
+Rank,Score,Title,External Identifier
+1,0.10594514764207306,the transverse potential flow past a body of revolution .,cranfield0106
+2,0.08051489510726594,simplified laminar boundary layer calculations forbodies of revolution and for yawed wings .,cranfield0336
+3,0.07777028964713212,a study of second-order supersonic flow theory .,cranfield1108
+4,0.07674626363369809,the flow around oscillating low aspect ratio wings at transonicspeeds .,cranfield0916
+5,0.07528696123079436,an experimental investigation of flow about simpleblunt bodies at a nominal mach number of 5. 8.,cranfield0372
+Q:18
+Original Query:
+ are experimental pressure distributions on bodies of revolution at angle of attack available  
+
+Lemma Version of Query
+angle at attack available body distribution experimental on pressure revolution 
+Vector Representation of Query
+0.49082508440937406,0.4,0.5259610232804546,0.5436168445279851,0.47027187774216106,0.47027187774216106,0.47027187774216106,0.4,0.43513593887108054,0.5465142299476675,
+Rank,Score,Title,External Identifier
+1,0.11247065559323806,the application of lighthill formula for numericalcalculation of pressure distributions on bodies ofrevolution at supersonic speed and zero angle of attack .,cranfield0248
+2,0.09154830859085189,pressure distributions on three bodies of revolutionto determine the effect of reynolds number up to andincluding the transonic speed range .,cranfield0197
+3,0.09084536504200434,prediction of ogive-forebody pressures at angles of attack .,cranfield0492
+4,0.08903573747842539,calculation of potential flow about bodies of revolutionhaving axes perpendicular to the free-stream direction .,cranfield0498
+5,0.088606423710336,an analysis of the applicability of the hypersonicsimilarity law to the study of the flow about bodiesof revolution at zero angle of attack .,cranfield0056
+Q:19
+Original Query:
+ does there exist a good basic treatment of the dynamics of re-entry combining consideration of realistic effects with relative simplicity of results  
+
+Lemma Version of Query
+basic combine consideration do dynamics effect entry exist good re realistic relative result simplicity treatment 
+Vector Representation of Query
+0.5758327737857558,0.5639696554359382,0.5318678490982885,0.528508257919958,0.6314749238181717,0.43375263419111676,0.5731268133336511,0.5248995881526954,0.5121238237959265,0.5505175641241643,0.7190032713206943,0.5731268133336511,0.43375263419111676,0.6314749238181717,0.5717152722416221,
+Rank,Score,Title,External Identifier
+1,0.07771091645796112,theoretical investigation of the ablation of a glass-typeheat protection shield of varied material propertiesat the stagnation point of a re-entering irbm .,cranfield0082
+2,0.06140271836476669,on som reciprocal relations in the theory of nonstationary flows .,cranfield0706
+3,0.056794982416289705,a re-examination of the use of the simple conceptsfor prediction the shape and location of detached shockwaves .,cranfield0482
+4,0.05392262941736671,sublimation in a hypersonic environment .,cranfield1279
+5,0.05298677446397668,modulated entry .,cranfield1346
+Q:20
+Original Query:
+ has anyone formally determined the influence of joule heating,  produced by the induced current,  in magnetohydrodynamic free convection flows under general conditions 
+
+Lemma Version of Query
+by condition convection current determine flow formally free general have heating induce influence joule magnetohydrodynamic produce under 
+Vector Representation of Query
+0.4,0.46594745449648967,0.58609897462995,0.5970931978838958,0.4765626236908526,0.4,0.6922852562115009,0.4852358484457202,0.4852358484457202,0.45226212119747544,0.5374979696431956,0.5400700031986037,0.5220172899645563,0.7446153846153847,0.5947721993848176,0.5347788848647245,0.492568955488945,
+Rank,Score,Title,External Identifier
+1,0.18549417221601297,joule heating in magnetohydrodynamic free-convectionflows .,cranfield0500
+2,0.10126368800032252,several magnetohydrodynamic free-convection solutions .,cranfield0268
+3,0.0924808717904212,some physical interpretations of magnetohydrodynamic duct flows .,cranfield0450
+4,0.07620895979083303,magnetohydrodynamic free-convection pipe flow .,cranfield0088
+5,0.07102565633875585,on combined free and forced convection laminar magnetohydrodynamicflow and heat transfer in channels with transversemagnetic field .,cranfield0270
+
