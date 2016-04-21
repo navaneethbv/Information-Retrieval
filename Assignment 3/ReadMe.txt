@@ -1,4 +1,4 @@
-To compile and execute the assignment, follow these steps
+To compile and execute the assignment, follow these steps - 
 
 Step 1: Login to csgrads1.utdallas.edu server and go to the following path
 
