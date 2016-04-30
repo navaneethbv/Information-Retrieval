@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Navaneeth
+ * @author Navaneeth Rao
  */
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
