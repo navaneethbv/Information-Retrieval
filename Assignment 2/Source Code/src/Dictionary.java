@@ -23,7 +23,8 @@ public class Dictionary {
 			final Map<String, Integer> appendFrom,
 			final Map<String, Property> docProperties,
 			final String file) {
-		for (final Entry<String, Integer> entry : appendFrom.entrySet()) {
+		for (final Entry<String, Integer> entry : appendFrom.entrySet()) 
+		{
 			Properties temp;
 			if (appendTo.containsKey(entry.getKey())) {				
 				temp = appendTo.get(entry.getKey());
