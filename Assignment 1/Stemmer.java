@@ -1,6 +1,6 @@
 /*
  File: Stemmer.java 
- 
+  
  Copyright 2010 - The Cytoscape Consortium (www.cytoscape.org) 
  
  Code written by: Layla Oesper
